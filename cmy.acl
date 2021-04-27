@@ -2229,7 +2229,7 @@
 (^|\.)zhangzishi\.cc$
 (^|\.)zhanqi\.tv$
 (^|\.)zhaopin\.com$
-(^|\.)zhihu\.com$
+# (^|\.)zhihu\.com$
 (^|\.)zhimg\.com$
 (^|\.)zhongsou\.com$
 (^|\.)zhuihd\.com$
